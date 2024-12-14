@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 
+
 int main() {
     std::cout << "\033[1;32mWelcome to the Circular Motion Calculator!\033[0m\n\n";
 
