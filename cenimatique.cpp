@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cmath>
-
-
 int main() {
     std::cout << "\033[1;32mWelcome to the Circular Motion Calculator!\033[0m\n\n";
 
@@ -91,7 +89,7 @@ int main() {
                 std::cout << "Error: Angular Velocity (w) cannot be zero.\n\n";
             }
             break;
-
+        
         case 6:
             std::cout << "\n--- Calculating Linear Velocity (v) from Angular Velocity ---\n";
             std::cout << "Enter Angular Velocity (w) [rad/s]: ";
@@ -109,6 +107,5 @@ int main() {
             std::cout << "Invalid choice. Please select a valid option.\n\n";
             break;
     }
-
     return 0;
 }
