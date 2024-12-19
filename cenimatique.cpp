@@ -5,7 +5,6 @@ int main() {
 
     double v, r, m, w, Ac, Fc, alpha, T, t;
     int choice;
-
     std::cout << "Select the calculation you want to perform:\n"
               << "1 - Calculate Angular Velocity (w)\n"
               << "2 - Calculate Centripetal Acceleration (Ac)\n"
