@@ -1,3 +1,4 @@
+//that's a basic code of my project and it will be improved in the future (: 
 #include <iostream>
 #include <cmath>
 int main() {
